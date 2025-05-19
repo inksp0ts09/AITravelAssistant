@@ -1,4 +1,5 @@
 Welcome to my AI Travel Assistant Itinerary Planner. 
+
 This project is part of a SheCodes course to learn how to use AI in Python.
 ---------------------------------------------------------------------------------
 Written in Python, this simple program demonstrates using API calls in Python functions.
@@ -28,5 +29,9 @@ To generate the itinerary, the pyton function generate_itinerary takes 5 paramet
   The answer is then styled from Markdown using the rich python library.
 
 ---------------------------------------------------------------------------------
+
+This project is relatively simple and is meant to demonstrate the knowledge needed for much more advanced and detailed AI API queries.
+The benefit of using python is the possibilities for customization with a popular and well known scripting language. 
+
 
 Thank You and Happy Coding!
